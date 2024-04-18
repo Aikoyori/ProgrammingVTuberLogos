@@ -8,3 +8,5 @@ Basically
 - Modify it and share it under the same licence
 - Credit Me
 - Don't sell shit with this stuff on it without asking me
+- Feel free to print YOUR OWN STICKERS AND NOT SELL IT
+- Feel free to swap in the logos into programs
