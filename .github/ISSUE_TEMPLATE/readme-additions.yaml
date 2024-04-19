@@ -1,22 +1,22 @@
----
 name: README additions
-about: Additions to READMe.md
+description: Additions to READMe.md
 title: "[README] "
-labels: README additions
+labels: ["README additions"]
 assignees: Aikoyori
 
 body:
   - type: markdown
-  - attributes:
-    value: |
-      # Thanks for your interest!
-      Please provide the following information:
+    attributes:
+      value: |
+        # Thanks for your interest!
+        Please provide the following information:
   - type : input
     id: product-name
     attributes:
       label: Your Repo Link
       description: The product you want the logo to be made
       placeholder: Acme Logos
+    validations:
       required: true
   - type : textarea
     id: additional-info
@@ -24,6 +24,7 @@ body:
       label: Other information
       description: Describe the product and the logo you want
       placeholder: The logos of Acme as additions.
+    validations:
       required: false
   - type: checkboxes
     id: agreement
@@ -33,6 +34,4 @@ body:
       options:
         - label: I have checked that I am not making a duplicate request
           required: true
----
-
 

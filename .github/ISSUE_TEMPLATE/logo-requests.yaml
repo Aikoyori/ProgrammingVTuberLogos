@@ -1,21 +1,21 @@
----
 name: Logo Requests
-about: For requesting logos
+description: For requesting logos
 title: "[LOGO REQUEST] "
-labels: Logo Request
+labels: ["Logo Request"]
 assignees: Aikoyori
 body:
   - type: markdown
-  - attributes:
-    value: |
-      # Thanks for your interest!
-      Please provide the following information:
+    attributes:
+      value: |
+        # Thanks for your interest!
+        Please provide the following information:
   - type : input
     id: product-name
     attributes:
       label: Product Name
       description: The product you want the logo to be made
       placeholder: Acme Explosive Eggs
+    validations:
       required: true
   - type : input
     id: product-link
@@ -23,6 +23,7 @@ body:
       label: Product Link
       description: The link to the product
       placeholder: https://example.com
+    validations:
       required: false
   - type : textarea
     id: additional-info
@@ -30,6 +31,7 @@ body:
       label: Other information
       description: Describe the product and the logo you want
       placeholder: The logo should be made with with Acme color scheme.
+    validations:
       required: false
   - type: checkboxes
     id: agreement
@@ -41,4 +43,3 @@ body:
           required: true
         - label: I have checked that I am not making a duplicate request
           required: true
----
