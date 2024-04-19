@@ -3,6 +3,9 @@ I share these logo so people can use it noncommercially
 
 # FAQs
 
+## How do I know things are being kept track?
+Check out the [Kanban board](https://github.com/users/Aikoyori/projects/1/views/1) for the project
+
 ## Why is the READMe capitalised like it does?
 My mistake and I am too lazy to change it soooo
 
