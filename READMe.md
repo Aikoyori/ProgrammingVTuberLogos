@@ -41,3 +41,4 @@ Basically
 
 # Similar Projects
 [Fun logos](https://github.com/G2-Games/fun-logos) by @G2-Games
+[ProgrammingVTuberLogos Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon) by @PetricaT
