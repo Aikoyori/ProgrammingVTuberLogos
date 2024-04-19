@@ -24,7 +24,7 @@ body:
       description: The link to the product
       placeholder: https://example.com
     validations:
-      required: false
+      required: true
   - type : textarea
     id: additional-info
     attributes:

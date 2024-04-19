@@ -25,7 +25,7 @@ body:
       description: Describe the product and the logo you want
       placeholder: The logos of Acme as additions.
     validations:
-      required: false
+      required: true
   - type: checkboxes
     id: agreement
     attributes:
