@@ -1,7 +1,16 @@
 # Programming VTuber Logos
 I share these logo so people can use it noncommercially
 
+> [!IMPORTANT]
+> # THESE ARE NOT OFFICIAL LOGOS
+
+> [!IMPORTANT]
+> # PLEASE CHECK IF SOMEONE ELSE HAS ASKED FOR THE SAME LOGO BEFORE ASKING FOR IT
+
 # FAQs
+
+## WHEN WILL IT BE MY QUEUE??!!?!?!?@!?@?!@!?@
+It will take at least a week with the current queue or even longer. I will get to it when I get to it.
 
 ## How do I know things are being kept track?
 Check out the [Kanban board](https://github.com/users/Aikoyori/projects/1/views/1) for the project
