@@ -41,5 +41,23 @@ body:
       options:
         - label: I agree that the logo will be made available under the project's license
           required: true
-        - label: I have checked that I am not making a duplicate request
+        - label: I have checked that I am not making a duplicate request (1)
+          required: true
+        - label: I have checked that I am not making a duplicate request (2)
+          required: true
+        - label: I have checked that I am not making a duplicate request (3)
+          required: true
+        - label: I have checked that I am not making a duplicate request (4)
+          required: true
+        - label: I have checked that I am not making a duplicate request (5)
+          required: true
+        - label: I have checked that I am not making a duplicate request (6)
+          required: true
+        - label: I have checked that I am not making a duplicate request (7)
+          required: true
+        - label: I have checked that I am not making a duplicate request (8)
+          required: true
+        - label: I have checked that I am not making a duplicate request (9)
+          required: true
+        - label: I have checked that I am not making a duplicate request (10)
           required: true
