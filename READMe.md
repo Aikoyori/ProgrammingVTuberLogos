@@ -7,6 +7,12 @@ I share these logo so people can use it noncommercially
 > [!IMPORTANT]
 > # PLEASE CHECK IF SOMEONE ELSE HAS ASKED FOR THE SAME LOGO BEFORE ASKING FOR IT
 
+# Similar Projects
+- [Fun logos](https://github.com/G2-Games/fun-logos) by @G2-Games
+- [ProgrammingVTuberLogos Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon) by @PetricaT
+- [ProgrammingVTuberLogos Korean Edition](https://github.com/lDMDiamondl/ProgrammingVTuberLogosKR/) by @lDMDiamondl
+- [ProgrammingVTuberLogos for Visual Studio](https://github.com/hvpexe/ProgrammingVTuberLogos-VisualStudio/) by @hvpexe
+
 # FAQs
 
 ## WHEN WILL IT BE MY QUEUE??!!?!?!?@!?@?!@!?@
@@ -49,9 +55,3 @@ Basically
 - Feel free to swap in the logos into programs
 - I may grant permission to people for these to be used in commercial projects on a case by case basis
 
-
-
-# Similar Projects
-- [Fun logos](https://github.com/G2-Games/fun-logos) by @G2-Games
-- [ProgrammingVTuberLogos Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon) by @PetricaT
-- [ProgrammingVTuberLogos Korean Edition](https://github.com/lDMDiamondl/ProgrammingVTuberLogosKR/) by @lDMDiamondl
