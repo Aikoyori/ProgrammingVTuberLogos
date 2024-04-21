@@ -11,7 +11,7 @@ I share these logo so people can use it noncommercially
 - [Fun logos](https://github.com/G2-Games/fun-logos) by @G2-Games
 - [ProgrammingVTuberLogos Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon) by @PetricaT
 - [ProgrammingVTuberLogos Korean Edition](https://github.com/lDMDiamondl/ProgrammingVTuberLogosKR/) by @lDMDiamondl
-- [ProgrammingVTuberLogos for Visual Studio](https://github.com/hvpexe/ProgrammingVTuberLogos-VisualStudio/) by @hvpexe
+- [ProgrammingVTuberLogos for Visual Studio](https://github.com/hvpexe/ProgrammingVTuberLogos-VisualStudio/) by [Manhkbrady on Behance](https://www.behance.net/Manhkbrady) (repo by @hvpexe)
 
 # FAQs
 
