@@ -8,7 +8,9 @@ body:
     attributes:
       value: |
         # Thanks for your interest!
-        Please provide the following information:
+        ## Please READ before submitting or YOUR ISSUE WILL BE CLOSED.
+
+        Please provide the following information and answer the questions correctly:
   - type : input
     id: product-name
     attributes:
@@ -37,7 +39,7 @@ body:
     id: verification1
     attributes:
       label: Select the following
-      description: Please select all of the following that applies
+      description: Please select **ALL** of the following that applies
       multiple: true
       options:
         - "Someone else has not requested this and I have not checked that that is the case because I am too lazy and I just want to spam these request to keep the guy busy."
@@ -58,20 +60,88 @@ body:
       options:
         - label: I agree that the logo will be made available under the project's license
           required: true
+        - label: Select this to have your issue immediately closed
+          required: false
+        - label: Select this no have your issue immediately closed
+          required: false
+        - label: Select this to have your issue immediately closed
+          required: false
+        - label: Select this no have your issue immediately closed
+          required: false
+        - label: Select this no have your issue immediately closed
+          required: false
+        - label: Select this no have your issue immediately closed
+          required: false
+        - label: Select this to have your issue immediately closed
+          required: false
+        - label: Select this to have your issue immediately closed
+          required: false
+        - label: Select this to have your issue immediately closed
+          required: false
         - label: I have checked that I am not making a duplicate request (1)
-          required: true
+          required: false
         - label: I have checked that I am not making a duplicate request (2)
-          required: true
+          required: false
         - label: I have checked that I am not making a duplicate request (3)
-          required: true
+          required: false
         - label: I have checked that I am yes making a duplicate request (4)
           required: false
         - label: I have checked that I am not making a duplicate request (5)
-          required: true
+          required: false
         - label: I have checked that I am yes making a duplicate request (6)
           required: false
         - label: I have checked that I am not making a duplicate request (7)
-          required: true
+          required: false
+        - label: I have checked that I am not making a duplicate request (8)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (9)
+          required: false
+        - label: I have checked that I am not making a duplicate request (10)
+          required: false
+        - label: I have checked that I am not making a duplicate request (11)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (12)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (13)
+          required: false
+        - label: I have checked that I am not making a duplicate request (14)
+          required: false
+        - label: I have checked that I am not making a duplicate request (15)
+          required: false
+        - label: I have checked that I am not making a duplicate request (16)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (17)
+          required: false
+        - label: I have checked that I am not making a duplicate request (18)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (19)
+          required: false
+        - label: I have checked that I am not making a duplicate request (20)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (21)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (22)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (23)
+          required: false
+        - label: I have checked that I am not making a duplicate request (24)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (25)
+          required: false
+        - label: I have checked that I am not making a duplicate request (26)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (27)
+          required: false
+        - label: I have checked that I am not making a duplicate request (28)
+          required: false
+        - label: I have checked that I am not making a duplicate request (29)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (30)
+          required: false
+        - label: I have checked that I am yes making a duplicate request (31)
+          required: false
+        - label: I have checked that I am not making a duplicate request (32)
+          required: false
         - label: I genuinely did not give a single damn if this gets rejected because I did not read any single thing and just blindly click every checkbox.
           required: false
         - label: If this turns out to be a duplicate, I agree that I will be burned at stake and publicly shamed until the project maintainer deems enough
