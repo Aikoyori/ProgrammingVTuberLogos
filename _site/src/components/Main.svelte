@@ -80,8 +80,10 @@
 
   <p>
     Can't find what you're looking for? <a
-      href="https://github.com/Aikoyori/ProgrammingVTuberLogos"
-      target="_blank">Request a new logo</a
+      href={`https://github.com/Aikoyori/ProgrammingVTuberLogos/issues?q=is%3Aissue+is%3Aopen+${search}`}
+      target="_blank"
+      >Check if it has already been requested in the Github Issues</a
+    >
     >
   </p>
 </main>
@@ -92,7 +94,7 @@
     padding: 1rem;
     width: 800px;
     max-width: calc(100% - 2rem);
-    color: white;
+    color: darkslategray;
     font-size: 20px;
     line-height: 1.6;
   }
@@ -102,6 +104,6 @@
   }
 
   a {
-    color: white;
+    color: darkslategray;
   }
 </style>
