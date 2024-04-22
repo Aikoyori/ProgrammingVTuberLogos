@@ -60,23 +60,23 @@ body:
       options:
         - label: I agree that the logo will be made available under the project's license
           required: true
-        - label: Select this to have your issue immediately closed
+        - label: Select this to have your issue immediately closed (1)
           required: false
-        - label: Select this no have your issue immediately closed
+        - label: Select this no have your issue immediately closed (2)
           required: false
-        - label: Select this to have your issue immediately closed
+        - label: Select this to have your issue immediately closed (3)
           required: false
-        - label: Select this no have your issue immediately closed
+        - label: Select this no have your issue immediately closed (4)
           required: false
-        - label: Select this no have your issue immediately closed
+        - label: Select this no have your issue immediately closed (5)
           required: false
-        - label: Select this no have your issue immediately closed
+        - label: Select this no have your issue immediately closed (6)
           required: false
-        - label: Select this to have your issue immediately closed
+        - label: Select this to have your issue immediately closed (7)
           required: false
-        - label: Select this to have your issue immediately closed
+        - label: Select this to have your issue immediately closed (8)
           required: false
-        - label: Select this to have your issue immediately closed
+        - label: Select this to have your issue immediately closed (9)
           required: false
         - label: I have checked that I am not making a duplicate request (1)
           required: false
