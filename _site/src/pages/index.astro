@@ -1,23 +1,18 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Main from '../components/Main.svelte';
-
-// Load all images in the project except those in the _site folder
-const files = await import.meta.glob<{ default: { src: string, format: string }}>(["../../../**/*.{png,svg}", "!../../../_site/**/*"], { eager: true })
-const images = Object.keys(files).map((file) => {
-  const { src, format } = files[file].default
-
-  return {
-    src,
-    folder: file.split('/').slice(-2, -1).pop(),
-    name: file.split('/').pop(),
-    format,
-  }
-})
-
-console.log(images)
 ---
 
 <Layout title="Programming VTuber Logos">
 	<Main client:load />
 </Layout>
+
+<style>
+  html {
+    background-color: darkslategray;
+  }
+  body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+</style>
