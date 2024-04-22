@@ -14,6 +14,8 @@ I share these logo so people can use it noncommercially
 - [ProgrammingVTuberLogos for Visual Studio](https://github.com/hvpexe/ProgrammingVTuberLogos-VisualStudio/) by [Manhkbrady on Behance](https://www.behance.net/Manhkbrady) (repo by @hvpexe)
 - [sawaratsuki1004's transparent logos](https://onedrive.live.com/?id=4B3290FB3CEB441A!9144&resid=4B3290FB3CEB441A!9144&ithint=folder&authkey=!ADkelorAY-HPbS4&cid=4b3290fb3ceb441a) by [sawaratsuki1004 on Twitter](https://twitter.com/sawaratsuki1004) ([Twitter post](https://twitter.com/sawaratsuki1004/status/1782079506083381657))
 
+You can view the collection of some logos (still updating) via [vtuber-style-logos.vercel.app](https://vtuber-style-logos.vercel.app/).
+
 # FAQs
 
 ## WHEN WILL IT BE MY QUEUE??!!?!?!?@!?@?!@!?@
