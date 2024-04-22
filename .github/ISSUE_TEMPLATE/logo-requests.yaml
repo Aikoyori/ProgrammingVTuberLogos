@@ -35,23 +35,22 @@ body:
       placeholder: The logo should be made with with Acme color scheme.
     validations:
       required: false
-  - type: dropdown 
+  - type: checkboxes 
     id: verification1
     attributes:
       label: Select the following
-      description: Please select **ALL** of the following that applies
-      multiple: true
+      description: Please select **ALL** of the following that sounds positive.
       options:
-        - "Someone else has not requested this and I have not checked that that is the case because I am too lazy and I just want to spam these request to keep the guy busy."
-        - "I am genuinely so tired of reading please give me a break I literally thought this would be a no-brainer process but suddenly I am doing an eight-choice quiz about my life."
-        - "I have read and actually let out my inner voice won and then I submitted the issue anyway because I think it's so funny seeing people suffer from my actions."
-        - "Imagine if a fly landed on your face, you would actually try to get it away, right? That's literally how you are doing the deed and I appreciate that you will do this."
-        - "Stop yapping about everything I just want to patiently wait for my logo to be eventually done thought what is going to make me mad is that more people don't understand this."
-        - "I love the author of this repository so much I could practically harass someone for it and I will do it again on any repository that makes it hard for me."
-        - "I would really like to know how you are doing this all with just some time left on your hand. This shit genuinely sucks and you deserves better than getting dupes."
-        - "All of the above."
-    validations:
-      required: true
+        - label: "Someone else has not requested this and I have not checked that that is the case because I am too lazy and I just want to spam these request to keep the guy busy."
+        - label: "I am genuinely so tired of reading please give me a break I literally thought this would be a no-brainer process but suddenly I am doing an eight-choice quiz about my life."
+        - label: "I have read and actually let out my inner voice won and then I submitted the issue anyway because I think it's so funny seeing people suffer from my actions."
+        - label: "Imagine if a fly landed on your face, you would actually try to get it away, right? That's literally how you are doing the deed and I appreciate that you will do this."
+        - label: "Stop yapping about everything I just want to patiently wait for my logo to be eventually done thought what is going to make me mad is that more people don't understand this."
+        - label: "I love the author of this repository so much I could practically harass someone for it and I will do it again on any repository that makes it hard for me."
+        - label: "I would really like to know how you are doing this all with just some time left on your hand. This shit genuinely sucks and you deserves better than getting dupes."
+        - label: "Please go rid yourself of other tasks and pay attention to your real tasks much less do this because you have a life to live but this is cool!"
+        - label: "I hate this thing so much I do not want to see it ever again but could you please do logos for me I will literally cry myself to sleep about it."
+        - label: "Stop slacking off and get to work you lazy piece of worthy person please do not take your time on this project and focus on your real work."
   - type: checkboxes
     id: agreement
     attributes:
@@ -70,14 +69,6 @@ body:
           required: false
         - label: Select this no have your issue immediately closed (5)
           required: false
-        - label: Select this no have your issue immediately closed (6)
-          required: false
-        - label: Select this to have your issue immediately closed (7)
-          required: false
-        - label: Select this to have your issue immediately closed (8)
-          required: false
-        - label: Select this to have your issue immediately closed (9)
-          required: false
         - label: I have checked that I am not making a duplicate request (1)
           required: false
         - label: I have checked that I am not making a duplicate request (2)
@@ -87,60 +78,6 @@ body:
         - label: I have checked that I am yes making a duplicate request (4)
           required: false
         - label: I have checked that I am not making a duplicate request (5)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (6)
-          required: false
-        - label: I have checked that I am not making a duplicate request (7)
-          required: false
-        - label: I have checked that I am not making a duplicate request (8)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (9)
-          required: false
-        - label: I have checked that I am not making a duplicate request (10)
-          required: false
-        - label: I have checked that I am not making a duplicate request (11)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (12)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (13)
-          required: false
-        - label: I have checked that I am not making a duplicate request (14)
-          required: false
-        - label: I have checked that I am not making a duplicate request (15)
-          required: false
-        - label: I have checked that I am not making a duplicate request (16)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (17)
-          required: false
-        - label: I have checked that I am not making a duplicate request (18)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (19)
-          required: false
-        - label: I have checked that I am not making a duplicate request (20)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (21)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (22)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (23)
-          required: false
-        - label: I have checked that I am not making a duplicate request (24)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (25)
-          required: false
-        - label: I have checked that I am not making a duplicate request (26)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (27)
-          required: false
-        - label: I have checked that I am not making a duplicate request (28)
-          required: false
-        - label: I have checked that I am not making a duplicate request (29)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (30)
-          required: false
-        - label: I have checked that I am yes making a duplicate request (31)
-          required: false
-        - label: I have checked that I am not making a duplicate request (32)
           required: false
         - label: I genuinely did not give a single damn if this gets rejected because I did not read any single thing and just blindly click every checkbox.
           required: false
