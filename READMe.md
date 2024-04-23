@@ -7,6 +7,9 @@ I share these logo so people can use it noncommercially
 > [!IMPORTANT]
 > # PLEASE CHECK IF SOMEONE ELSE HAS ASKED FOR THE SAME LOGO BEFORE ASKING FOR IT
 
+# README
+ - [中文 Readme](https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/READMe_zh_cn.md)
+
 # Similar Projects
 - [Fun logos](https://github.com/G2-Games/fun-logos) by @G2-Games
 - [ProgrammingVTuberLogos Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon) by @PetricaT
