@@ -24,4 +24,4 @@
 - Open the replacement image with the built-in paint software of Windows, then press `ctrl + a` to select all and set the pixel size to correspond to the two files above. Then copy this replacement image to the two files above, make sure the pixel sizes are the same, save it after replacement
 - Delete all files in the `test` folder, then drag the backed up `app.jar` into it, and also drag the replaced `idea_logo@2x.png` and `idea_logo.png`
 - Execute the command ` jar -uvf app.jar idea_logo.png` and ` jar -uvf app.jar idea_logo@2x.png` in the terminal to complete the replacement, then put `app.jar` back to its original position to replace
-- Then go to `C:\Users\userName\AppData\Local\JetBrains\IntelliJIdea2024.1\splash\`, delete all the cached files in the `splash` folder.
+- Then go to `C:\Users\userName\AppData\Local\JetBrains\IntelliJIdea2023.3\splash\`, delete all the cached files in the `splash` folder.
