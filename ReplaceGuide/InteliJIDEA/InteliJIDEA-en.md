@@ -1,8 +1,9 @@
 # Replace the IDEA boot image
 
+You may try this [simple python script](https://github.com/dayo05/jetbrains_logo_patcher/tree/main?tab=readme-ov-file)
 ****
 
-## 2024 version
+## 2024 Ultimate version
 
 - Back up the file `C:\Users\userName\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\product.jar`
 - Create a folder named `test` for modification, and put `product.jar` into this folder
@@ -15,7 +16,7 @@
 
 ****
 
-## 2023 and lower version
+## 2024 Community and 2023 and lower version
 
 - Back up the file `C:\Users\userName\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\app.jar`
 - Create a folder named `test` for modification, and put `app.jar` into this folder
