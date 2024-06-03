@@ -13,7 +13,7 @@ I share these logo so people can use it noncommercially
 - [ProgrammingVTuberLogos Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon) by @PetricaT
 - [ProgrammingVTuberLogos Korean Edition](https://github.com/lDMDiamondl/ProgrammingVTuberLogosKR/) by @lDMDiamondl
 - [ProgrammingVTuberLogos for Visual Studio](https://github.com/hvpexe/ProgrammingVTuberLogos-VisualStudio/) by [Manhkbrady on Behance](https://www.behance.net/Manhkbrady) (repo by @hvpexe)
-- [sawaratsuki1004's transparent logos](https://github.com/SAWARATSUKI/ServiceLogos) by [sawaratsuki1004 on Twitter](https://twitter.com/sawaratsuki1004) ([Twitter post](https://twitter.com/sawaratsuki1004/status/1782079506083381657)) ([OneDrive](https://onedrive.live.com/?id=4B3290FB3CEB441A!9144&resid=4B3290FB3CEB441A!9144&ithint=folder&authkey=!ADkelorAY-HPbS4&cid=4b3290fb3ceb441a))
+- [sawaratsuki1004's transparent logos](https://github.com/SAWARATSUKI/KawaiiLogos) by [sawaratsuki1004 on Twitter](https://twitter.com/sawaratsuki1004) ([Twitter post](https://twitter.com/sawaratsuki1004/status/1782079506083381657)) ([OneDrive](https://onedrive.live.com/?id=4B3290FB3CEB441A!9144&resid=4B3290FB3CEB441A!9144&ithint=folder&authkey=!ADkelorAY-HPbS4&cid=4b3290fb3ceb441a))
 
 ## Frequently Asked Questions (FAQs)
 
